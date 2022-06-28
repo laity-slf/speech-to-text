@@ -1,0 +1,5 @@
+[2022-06-24 12:49:19,751][app.py][line:47][INFO] 模型加载成功
+[2022-06-24 12:49:19,752][_internal.py][line:224][INFO]  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5071
+ * Running on http://192.168.37.112:5071 (Press CTRL+C to quit)

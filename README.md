@@ -29,7 +29,7 @@ ASR接口
         path：音频文件的地址
         add_pun：是否使用标点符号恢复（1代表恢复，0代表不恢复），默认进行恢复。
         
-输入
+输入示例
 
         {
             "path":"/home/shanhoo3/slf/workspace/asr_paddlespeech/audio_file/inforec-20220101-1a34a5b01c9f22406426e975f804bb06.wav",
